@@ -2,7 +2,7 @@
 
 Esse repositório contém uma breve introdução das funcionalidade de fala e linguagem da IA de Machine Learning do Azure, dando uma melhor embassamento no âmbito de leitura de um texto, e com base nele ter uma análise das emoções.
 
-# Speech Studio
+# Tutorial Speech Studio
 1. Acesse (https://speech.microsoft.com/portal) e clique em "engrenagem" no canto superior direito
 2. Você será direcionado para a aba de configurações, como não existe nenhum recurso para isso, clique em "Criar novo recurso"
 3. Insira o nome do recurso, o tipo de preço que será o padrão S0 (o gratuito) e o grupo de recursos (caso não tenha, existe a opção de criar um) e apertar no botão Azure para criá-lo
@@ -11,7 +11,7 @@ Esse repositório contém uma breve introdução das funcionalidade de fala e li
 6. Assim que entrar nessa funcionalidade, o sistema irá identificar o recurso criado e selecionado. Depois vai pedir uma confirmação que isto poderá gastar crédito da sua conta. Em relação a questão da caixa de seleção, ela se refere a que idioma é o arquivo.
 7. Na parte debaixo terá de um lado uma seção você passar um arquivo de aúdio (ou gravar um aúdio) e do outro lado a demonstração do resultado em tempo real (para ser feito isso, é somente clicar no botão que está em pause e resumí-lo)
 
-# Language Studio
+# Tutorial Language Studio
 O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelhante ao Speech Studio, contudo o enfoque dele é na leitura de documentos ou textos, em que ele irá analizá-los e retornar dados como conversão de texto para fala, tradução e entre outros.
 
 1. Entre no portal do azure, depois clique em criar um novo recurso ou create a new resource, escolher a categoria AI + Machine Learning e dessa vez escolher o Language Service e clicar no criar ou create
@@ -20,6 +20,14 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 4. Finalizando a criação de recursos, você deve ir ao Language Studio. Ao ir para lá, ele pedirá para você pedir o tipo de recurso (nesse caso o Language) e o nome do recurso criado agora à pouco e clicar em done
 5. Na tela inicial do estúdio, vá para o item Analyze sentiment and mine opinions (Analizar sentimento e opiniões)
 6. É nessa funcionalidade que se verifica e demonstra os sentimentos da pessoa que criou o texto, dando notas de porcentagem de sentimentos/emoções positivas, neutras e negativas, junto com a porcentagem de certeza e as palavras de cada frase que a demonstram
+
+# Utilizando o Language Studio
+
+1. Na pasta input temos o texto utilizado como exemplo nesse laboratório
+2. Após seguir os passos descritos no tutorial do Language Studio, inserir o texto exemplo e obtive os seguintes resultados
+
+
+
 
 # Finalizando
 Finalizando, é possível ver um leque de opções para utilizar o Speech ou Language Studio, ou também integrar os dois ou acrescentar o de reconhecimento de imagens também.
