@@ -24,7 +24,7 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 # Utilizando o Language Studio
 
 1. Na pasta input temos o texto utilizado como exemplo nesse laboratório
-2. Após seguir os passos descritos no tutorial do Language Studio, inserir o texto exemplo e obtive os seguintes resultados
+2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto exemplo e obtive os seguintes resultados
 
 
 
