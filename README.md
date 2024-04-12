@@ -24,7 +24,12 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 # Utilizando o Language Studio
 
 1. Na pasta input temos o texto utilizado como amostra no (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
-2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto amostra e obtive os seguintes resultados
+2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto amostra e e fiz a analise da primmeira frase.
+
+
+![image[(https://github.com/DeborahBMachado/analise-de-sentimentos-com-language-studio/blob/main/Output%20Language%20Studio/Captura%20de%20tela%202024-04-12%20120922.png)
+
+
 
 
 
