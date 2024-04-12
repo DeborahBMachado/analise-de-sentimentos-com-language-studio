@@ -31,7 +31,7 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 
 
 
-![image](https://github.com/DeborahBMachado/analise-de-sentimentos-com-language-studio/blob/main/Output%20Language%20Studio/Captura%20de%20tela%202024-04-12%20121017.png)
+![image](https://github.com/DeborahBMachado/analise-de-sentimentos-com-language-studio/blob/main/Output%20Language%20Studio/Captura%20de%20tela%202024-04-12%20141818.png)
 
 
 # Finalizando
