@@ -23,7 +23,10 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 
 # Utilizando o Language Studio
 
-1. Na pasta input temos o texto utilizado como amostra no (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
+1. Utilizamos como amostra o texto:
+
+I bought a size S and it fit perfectly. I found the zipper a little bit difficult to get up & down due to the side rushing. The color and material are beautiful in person. Amazingly comfortable!
+
 2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto amostra e e fiz a analise da primmeira frase.
 
 
