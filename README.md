@@ -23,8 +23,8 @@ O Language Studio (https://language.cognitive.azure.com/) tem um objetivo semelh
 
 # Utilizando o Language Studio
 
-1. Na pasta input temos o texto utilizado como exemplo nesse laboratório
-2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto exemplo e obtive os seguintes resultados
+1. Na pasta input temos o texto utilizado como amostra no (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
+2. Após seguir os passos descritos no tutorial do Language Studio, inseri o texto amostra e obtive os seguintes resultados
 
 
 
